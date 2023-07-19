@@ -1,0 +1,23 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aburgy-93/Battleship.git"
+  },
+  "author": "Alex Burgy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aburgy-93/Battleship/issues"
+  },
+  "homepage": "https://github.com/aburgy-93/Battleship#readme",
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
